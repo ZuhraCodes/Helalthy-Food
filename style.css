@@ -1,0 +1,92 @@
+.navbar{
+    display: flex;
+}
+
+.logo{
+    width: 150px;
+    height: 40px;
+    margin-top: 45px;
+    margin-left: 100px;
+}
+
+.links{
+    margin:55px 200px;
+}
+
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.text{
+    font-size: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text1{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.text2{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text3{
+    font-size: 15px;
+    color: rgba(88, 46, 255, 1);
+}
+
+.texts {
+    padding-left: 10px;
+}
+
+.card{
+    margin-left: 210px;
+    width: 400px;
+}
+
+.button {
+    display: flex;
+    background-color: rgba(238, 234, 255, 1);
+    width: 147px;
+    padding-left: 20px;
+}
+
+
+.vector{
+    width: 21px;
+    height: 23px;
+    padding-top: 20px;
+}
+
+.buttons {
+    display: flex;
+}
+
+.class {
+    margin-left: 20px;
+}
+
+.body {
+    display: flex;
+}
+
+.odam {
+    margin-left: 300px;
+
+}
+
+.body2{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.card2{
+    margin-left: 400px;
+    width: 400px;
+}
